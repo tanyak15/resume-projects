@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "firebase": "^9.23.0",
+    "framer-motion": "^10.12.18",
+    "moment": "^2.29.4",
+    "react-h5-audio-player": "^3.8.6",
+    "tailwind-scrollbar": "^3.0.4"
+  }
+}
